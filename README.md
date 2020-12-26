@@ -4,8 +4,9 @@ Simple example of Database-First approach using Entity Franework Core.
 
 ## Packages required
 
-- dotnet add package Microsoft.EntityFrameworkCore.Design
-- dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL
+- Microsoft.EntityFrameworkCore.Design
+- Npgsql.EntityFrameworkCore.PostgreSQL
+- Microsoft.EntityFrameworkCore.SqlServer
 
 ## CLI commands
 
