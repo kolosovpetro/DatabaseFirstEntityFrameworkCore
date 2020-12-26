@@ -18,9 +18,7 @@ Simple example of Database-First approach using Entity Franework Core.
 
 Consider the case when we have a connection string to some database we want to reverse engineer. 
 
-Consider the database 
-
-	[CodeFirstEntityFrameworkCore](https://github.com/kolosovpetro/CodeFirstEntityFrameworkCore)
+Consider the database [CodeFirstEntityFrameworkCore](https://github.com/kolosovpetro/CodeFirstEntityFrameworkCore)
 
 We have following connection strings:
 
